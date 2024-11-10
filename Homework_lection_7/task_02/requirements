@@ -1,0 +1,11 @@
+<!-- Problem 1:
+Implement an online movie library like Netflix. It should have users, admins that can add/remove content, subscriptions with trial period, movies.
+Every user should be able to add a movie in list of favourites. They should also be able to get a list of recommended movies (at least 3) (( Could be the last 3 added)).
+They should be able to mark movies as watched and also rate the movie with a rating ranging 1 to 5. Users should be able to get a list of all watched movies.
+Organize your code in modules and follow the good OOP principles.
+Start with designing your classes and entities in the project.
+**Tasks:**
+1. Create the classes mentioned above, ensuring appropriate encapsulation and data validation where necessary.
+2. Demonstrate the system's functionality by simulating interactions such as watching a movie, asking for recommendations, marking a movie as watched, rating a movie, listing all
+watched movies and so on.
+3. Implement tests cases accordingly -->

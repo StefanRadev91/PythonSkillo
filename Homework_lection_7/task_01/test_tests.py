@@ -42,7 +42,6 @@ def setup_system():
         "building": building
     }
 
-
 def test_tenant_info_display(setup_system):
     tenant1 = setup_system["tenant1"]
     tenant2 = setup_system["tenant2"]
