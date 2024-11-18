@@ -1,0 +1,18 @@
+<inventory>
+    <product>
+        <name>Skillo Pyhton Course</name>
+        <price>430</price>
+    </product>
+    <product>
+        <name>Skillo Automation QA Course</name>
+        <price>350</price>
+    </product>
+    <product>
+        <name>Skillo SQL Course</name>
+        <price>400</price>
+    </product>
+    <product>
+        <name>Skillo XML</name>
+        <price>1.00</price>
+    </product>
+</inventory>
